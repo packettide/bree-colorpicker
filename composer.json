@@ -1,6 +1,6 @@
 {
     "name": "packettide/bree-colorpicker",
-    "description": "",
+    "description": "A colorpicker field package for Bree",
     "keywords": [
         "laravel",
         "bree",

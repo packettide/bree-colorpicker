@@ -1,6 +1,6 @@
 #Colorpicker
 
-Colorpicker is a field package for [Bree](https://github.com/packettide/bree) which provides a basic fieldset implementation using the HTML input type="color" as well as an advanced fieldset implementation utilizing [Spectrum.js](https://github.com/bgrins/spectrum).
+Colorpicker is a field package for [Bree](https://github.com/packettide/bree) which provides a basic fieldset implementation using the HTML input type="color" as well as an advanced fieldset implementation utilizing [Spectrum](https://github.com/bgrins/spectrum).
 
 ##Installation
 
