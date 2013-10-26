@@ -1,3 +1,3 @@
 $(function() {
-	$(".pt-colorpicker").spectrum({color: "#f00"});
+	$(".pt-colorpicker").spectrum();
 });
