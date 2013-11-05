@@ -7,7 +7,6 @@ Colorpicker is a field package for [Bree](https://github.com/packettide/bree) wh
 1. Install with composer by adding this line to your 'require' block: `"packettide/bree-colorpicker": "@dev"`
 2. Run `composer update`
 3. In Laravel4 add `'Packettide\BreeColorpicker\BreeColorpickerServiceProvider',` to the providers array in app/config/app.php
-
 4. Publish the package assets:	`php artisan bree:assets`
 
 ##Usage

@@ -4,11 +4,9 @@ use Packettide\Bree\FieldType;
 
 class BreeColorpicker extends FieldType {
 
-	public function field($attributes = array())
+	public function generateField($name, $data, $attributes = array())
 	{
-		$attrs = $this->getFieldAttributes($attributes);
-		return '<input name="'.$this->name.'" value="'.$this->data.'" type="color" '.$attrs.'/>';
+		return '<input name="'.$name.'" value="'.$data.'" type="color" '.$attributes.'/>';
 	}
-
 
 }
